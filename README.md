@@ -1,4 +1,4 @@
-![header-background](https://miro.medium.com/max/1400/1*Cj1Z20b0pb4SoXfKrBeejw.jpeg)
+![header-background](https://d1e00ek4ebabms.cloudfront.net/production/32ada96c-11be-444b-9ad6-ddd9127b6626.jpg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Crocodile.;I+AM+A+SEASONED+WEB+DEVELOPER.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     <h2 align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
