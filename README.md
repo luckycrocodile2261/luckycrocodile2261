@@ -1,4 +1,4 @@
-![header-background](https://itchronicles.com/wp-content/uploads/2020/12/future-of-blockchain-1024x576.png)
+![header-background](https://4.bp.blogspot.com/-Bfems_rNV1A/Wun81gvNSPI/AAAAAAAAHh0/LGXUCmMPTBgk5vQnWvjIKxwHp7xYWImhwCLcBGAs/s1600/Blockchain%2BEarth%2BImage.jpg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Crocodile.;I+AM+A+SEASONED+WEB+DEVELOPER.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     <h2 align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
