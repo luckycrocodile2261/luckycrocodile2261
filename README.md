@@ -1,4 +1,4 @@
-![header-background](https://coindoo.com/wp-content/uploads/2019/03/Blockchain-Development-Companies.jpg)
+![header-background](https://dataexpertsglobal.com/wp-content/uploads/2020/07/blockchain_1-1000x745.jpg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+VISIT+MY+PROFILE.;I+am+Mr.Crocodile.;I+am+a+SENIOR+WEB+DEVELOPER.;)](https://git.io/typing-svg)
     <h2 align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
